@@ -20,4 +20,10 @@
    - Used CSS module 2 class work and home-work.
    - W3schools HTML and W3schools CSS.
    - Stack over flow to refer alignment.          
+## URL :
+   # URL of Deployed Application:
+https://vinosandy.github.io/script-craft/
+
+ # URL of my GitHub Repository:
+https://github.com/VinoSandy/script-craft.git
 
